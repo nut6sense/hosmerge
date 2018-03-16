@@ -1,0 +1,13 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Mitr);
+
+// Bootstrap
+@import "node_modules/bootstrap/scss/bootstrap";
+
+// FontAwesome
+$fa-font-path: "webfonts" !default;
+@import "node_modules/@fortawesome/fontawesome-free-webfonts/scss/fontawesome";
+
+// Variables
+@import "custom";
